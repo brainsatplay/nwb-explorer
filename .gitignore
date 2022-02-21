@@ -3,9 +3,6 @@
 *pyc
 /static/
 /dependencies/
-/webapp/build/
-/webapp/node_modules/
-/webapp/geppetto-client/
 .DS_Store
 *.egg-info/
 *.nwb
@@ -19,9 +16,13 @@ test_data
 .tox
 tox.ini
 .coverage
-/src
 geppetto-client
 /lib
 /bin
 /nwb-explorer
 pyvenv.cfg
+*.lock
+
+/build/
+/node_modules/
+/geppetto-client/

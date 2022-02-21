@@ -1,5 +1,0 @@
-{
-  "name": "Dummy Plot 2",
-  "id": "plot_holoviews_2",
-  "requirements": ["DfOverT", "processing.<ProcessingModule>.DfOverF"]
-}
