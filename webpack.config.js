@@ -113,10 +113,6 @@ module.exports = function (env){
         geppetto: path.resolve(__dirname, geppetto_base_path, 'geppetto-client/js/pages/geppetto/GEPPETTO.js'),
         '@geppettoengine/geppetto-client-initialization': path.resolve(__dirname, geppetto_base_path, 'geppetto-client/js/pages/geppetto/main'),
         handlebars: 'handlebars/dist/handlebars.js',
-        'geppetto/build/static/custom.css': 'static/custom.css',
-        'geppetto/build/static/splash-animation.gif': 'static/splash-animation.gif',
-        'geppetto/build/common.bundle.js': 'common.bundle.js',
-        'geppetto/build/main.bundle.js': 'main.bundle.js',
 
       },
       extensions: ['*', '.js', '.json', '.ts', '.tsx', '.jsx'],

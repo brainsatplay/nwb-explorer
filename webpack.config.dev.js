@@ -6,7 +6,7 @@ extended.devServer = {
   progress : false,
   port : 8081,
   inline : true,
-  openPage: 'build/index.html',
+  openPage: 'build/geppetto.html',
   publicPath: '',
 };
 
